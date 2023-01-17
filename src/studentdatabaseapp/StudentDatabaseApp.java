@@ -1,7 +1,5 @@
 package studentdatabaseapp;
-
 import java.util.Scanner;
-
 public class StudentDatabaseApp {
     public static void main(String[] args) {
 
@@ -22,10 +20,6 @@ public class StudentDatabaseApp {
 
 
         }
-
-
-
-
 
 
     }
